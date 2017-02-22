@@ -47,12 +47,15 @@
                             <constraint firstItem="zYB-5m-wF5" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="70" id="4fi-h7-L3u"/>
                             <constraint firstAttribute="trailingMargin" secondItem="zYB-5m-wF5" secondAttribute="trailing" constant="70" id="8co-Un-b8X"/>
                             <constraint firstAttribute="trailingMargin" secondItem="UiX-p7-acU" secondAttribute="trailing" constant="85" id="Fbz-Ar-WgN"/>
+                            <constraint firstItem="zYB-5m-wF5" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Gfa-Sb-hOo"/>
                             <constraint firstItem="UiX-p7-acU" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="85" id="GpE-ec-eu7"/>
                             <constraint firstItem="ea6-SX-9kB" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="150" id="RXn-nP-p97"/>
                             <constraint firstItem="UiX-p7-acU" firstAttribute="top" secondItem="zYB-5m-wF5" secondAttribute="bottom" constant="20" id="T03-UA-rfs"/>
                             <constraint firstItem="zYB-5m-wF5" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="70" id="dbH-mr-B4f"/>
                             <constraint firstItem="ea6-SX-9kB" firstAttribute="top" secondItem="UiX-p7-acU" secondAttribute="bottom" constant="80" id="eW3-wd-V0h"/>
                             <constraint firstAttribute="trailingMargin" secondItem="ea6-SX-9kB" secondAttribute="trailing" constant="150" id="ime-sE-Tf8"/>
+                            <constraint firstItem="UiX-p7-acU" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="nQu-qR-dly"/>
+                            <constraint firstItem="ea6-SX-9kB" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="pqu-EJ-htP"/>
                         </constraints>
                     </view>
                     <connections>
@@ -92,9 +95,11 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
                             <constraint firstAttribute="trailingMargin" secondItem="D9g-z4-T2n" secondAttribute="trailing" constant="30" id="6GT-mM-DLZ"/>
+                            <constraint firstItem="D9g-z4-T2n" firstAttribute="centerX" secondItem="Isw-Lg-NLe" secondAttribute="centerX" id="6Xh-Gw-NuH"/>
                             <constraint firstItem="D9g-z4-T2n" firstAttribute="leading" secondItem="Isw-Lg-NLe" secondAttribute="leadingMargin" constant="30" id="8lK-CY-8Rc"/>
-                            <constraint firstItem="D9g-z4-T2n" firstAttribute="top" secondItem="6kN-7l-m9G" secondAttribute="bottom" constant="70" id="I3a-Qe-iK9"/>
+                            <constraint firstItem="aGd-Pm-NWV" firstAttribute="centerX" secondItem="Isw-Lg-NLe" secondAttribute="centerX" id="HOX-bE-IKj"/>
                             <constraint firstItem="aGd-Pm-NWV" firstAttribute="top" secondItem="D9g-z4-T2n" secondAttribute="bottom" constant="100" id="O0c-3L-1jn"/>
+                            <constraint firstItem="D9g-z4-T2n" firstAttribute="top" secondItem="6kN-7l-m9G" secondAttribute="bottom" constant="70" id="WUT-Nq-xfY"/>
                             <constraint firstItem="aGd-Pm-NWV" firstAttribute="leading" secondItem="Isw-Lg-NLe" secondAttribute="leadingMargin" constant="150" id="cub-rm-ahP"/>
                             <constraint firstAttribute="trailingMargin" secondItem="aGd-Pm-NWV" secondAttribute="trailing" constant="150" id="vgm-TV-YxC"/>
                         </constraints>
